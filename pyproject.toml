@@ -7,6 +7,7 @@ authors = [
     "Lorenzo Mammana <lorenzo.mammana@orobix.com>",
 ]
 packages = [{ include = "pytorch_grad_cam" }]
+license = "MIT"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
