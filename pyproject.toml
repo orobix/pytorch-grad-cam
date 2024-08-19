@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "grad-cam"
+name = "grad-cam-orobix"
 version = "1.1.0.dev001"
 description = "Many Class Activation Map methods implemented in Pytorch. Including Grad-CAM, Grad-CAM++, Score-CAM, Ablation-CAM and XGrad-CAM"
 authors = [
